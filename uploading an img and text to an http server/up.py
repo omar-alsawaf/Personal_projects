@@ -17,4 +17,4 @@ def post(path1,path2):
             print(r.status_code)
             print(r.text)
 
-post("data\status.txt",'oma/A.jpg')
+post("./data/status.txt",'oma/A.jpg')
