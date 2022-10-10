@@ -1,2 +1,0 @@
-pywhatkit==5.4
-openpyxl==3.0.10
